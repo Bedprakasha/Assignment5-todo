@@ -2,7 +2,7 @@
   "name": "todoapp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Bedprakasha.github.io/Assignment5-todo",
+  "homepage": "https://bedprakasha.github.io/Assignment5-todo/",
 
   "type": "module",
   "scripts": {
